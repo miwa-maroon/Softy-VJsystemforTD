@@ -1,3 +1,11 @@
 Source/*.mp4
 Source/*.mov
 Source/*.avi
+
+Audio/*.mp3
+Audio/*.wav
+Audio/*.aiff
+
+*.mp4
+*.mov
+*.avi

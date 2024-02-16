@@ -1,0 +1,2 @@
+Place video files in Source directory
+(tox in the future as well)
